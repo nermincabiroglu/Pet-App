@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Evcil Hayvan Kılavuzu</string>
+    <string name="desc">Hangi dostunuz hakkında bilgi almak istiyorsunuz ?</string>
+    <string name="kopekler">Köpekler</string>
+    <string name="kediler">Kediler</string>
+    <string name="kuslar">Kuşlar</string>
+    <string name="veteriner_ve_petshoplar">Veteriner ve Petshoplar</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
