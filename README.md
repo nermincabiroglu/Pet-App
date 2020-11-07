@@ -1,2 +1,2 @@
-# Pet-App
+# Pet App
 Evcil Hayvan Bakım Rehberi
